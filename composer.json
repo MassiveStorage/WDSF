@@ -1,0 +1,12 @@
+{
+    "require" : {
+        "slim/slim" : "*",
+        "smarty/smarty" : "*",
+        "phpunit/phpunit" : "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "WDPS\\": "app/"
+        }
+    }
+}

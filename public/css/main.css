@@ -1,0 +1,53 @@
+body {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+#wrapper {
+    margin: inherit;
+    padding: inherit;
+    
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+    min-width: 100%;
+    display:block;
+    position: absolute;
+    background-color: lightgray;
+}
+
+.slide {
+    margin-left: auto;
+    margin-right: auto; 
+    min-height: 100%;
+    height: 100%;
+    min-width: 80%;
+    max-width: 80%;
+    
+    
+    overflow: no-display;
+    
+    background-color: lightsteelblue;
+   
+}
+
+table {
+    width: 100%;
+}
+/*
+table tr {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+table td {
+   border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}*/
